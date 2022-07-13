@@ -18,4 +18,6 @@ https://chromedriver.chromium.org/
 
 Be careful to version of Google Chrome and your OS.
 
-https://github.com/knetic0/bruteforce-attacker/issues/1#issue-1303435681
+
+https://user-images.githubusercontent.com/72500821/178744583-bed271c7-6d97-4b38-8a53-2864c898bd44.mp4
+
