@@ -17,3 +17,5 @@ Also you must download Chromedriver.
 https://chromedriver.chromium.org/
 
 Be careful to version of Google Chrome and your OS.
+
+https://github.com/knetic0/bruteforce-attacker/issues/1#issue-1303435681
